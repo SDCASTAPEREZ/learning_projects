@@ -1,7 +1,7 @@
 def run():
     print("""
     Hola.
-    En este reto tienes que adivinar el número secreo (entre 0 y 9), para lograrlo tienes 3 intentos.
+    En este reto tienes que adivinar el número secreto (entre 0 y 9), para lograrlo tienes 3 intentos.
     Mucha suerte :D
     """)
     
